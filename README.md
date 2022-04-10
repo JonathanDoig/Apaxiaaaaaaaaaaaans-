@@ -1,4 +1,7 @@
-
+/*Jonathan Doig
+ * 4/9/2022
+ * code to remove repetition of a letter
+ */
 using System;
 
 namespace NameShortenator
